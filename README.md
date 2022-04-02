@@ -1,2 +1,2 @@
-# my-group-repo
+# super-team-project
 My project is awesome
